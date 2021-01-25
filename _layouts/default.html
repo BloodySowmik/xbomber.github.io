@@ -23,7 +23,16 @@
     <meta property="og:Keywords" content="SMS BOMBING, CALL BOMBING, SMS BOMB BD, SMS BOMBING BANGLADESH, Ign0r3dH4x0r, XBOMBER">
     <meta property="og:image" content="https://i.ibb.co/25fFYG0/142442151-236038568027374-7919466072462404391-n.png">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="icon" href="favicon-16x16.png" type="image" sizes="16x16"> 
+    <link rel="icon" href="favicon-16x16.png" type="image" sizes="16x16">
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+    <script>
+      window.OneSignal = window.OneSignal || [];
+      OneSignal.push(function() {
+        OneSignal.init({
+          appId: "44b19cf7-2ab3-4167-b0d2-ebde98505927",
+        });
+      });
+    </script>
   </head>
   <body>
     <header class="page-header" role="banner">
