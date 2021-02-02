@@ -6,8 +6,8 @@ BANGLADESHI SMS BOMBER THAT WORKS ON ANY OPERATOR'S SIM. BOMBING LIMIT IS 400 FO
 - USE 182858 FOR LOGIN
 
 ### CHANGELOG v1.2 
-- Added call bomber
-- Limit increased
+- Added Call Bomber
+- Limit Increased To 400
 
 ## STAY IN TOUCHED WITH SOCIAL MEDIAS
 - [FACEBOOK](https://www.facebook.com/𝗫-𝗕-𝗢-𝗠-𝗕-𝗘-𝗥-106101268154466/)
