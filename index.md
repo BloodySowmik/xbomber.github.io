@@ -1,15 +1,24 @@
 ## XBOMBER OFFICIAL
 
-BANGLADESHI SMS BOMBER THAT WORKS ON ANY OPERATOR'S SIM. BOMBING LIMIT IS 400 FOR EACH TIME. OUR ANDROID APPLICATION IS ALSO AVAILABLE :)
+BEST BANGLADESHI SMS AND CALL BOMBER THAT WORKS ON ANY OPERATOR'S SIM. BOMBING LIMIT IS *500* FOR EACH TIME. OUR ANDROID APPLICATION IS ALSO AVAILABLE :)
+
+### Download Scanning QR CODE
+<p align="center">
+  <img src="https://i.ibb.co/T8XxTM0/XBomber-QR.png" width="200">
+</p>
+
+##
+
 
 ### APP PASSWORD
-- USE 182858 FOR LOGIN
+- USE _*182858*_ FOR LOGIN
 
 ### CHANGELOG v1.2 
-- Added Call Bomber
-- Limit Increased To 400
+- Added *CALL BOMBER*
+- LIMIT Increased To *500*
+- Added *MORE APIs*
 
 ## STAY IN TOUCHED WITH SOCIAL MEDIAS
-- [FACEBOOK](https://www.facebook.com/𝗫-𝗕-𝗢-𝗠-𝗕-𝗘-𝗥-106101268154466/)
-- [GITHUB](http://github.com/Ign0r3dH4x0r)
+- [OFFICIAL FACEBOOK](https://www.facebook.com/Xbomber.official/)
+- [GITHUB](http://github.com/Ign0r3dH4x0r/)
 
